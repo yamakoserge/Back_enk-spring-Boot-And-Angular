@@ -1,0 +1,9 @@
+Spring Security 6 (Signup + Login + Hello API)
+
+Angular Authentication (Signup + Login + Hello API)
+
+Simple UI
+
+English
+
+Gsoft & Code
